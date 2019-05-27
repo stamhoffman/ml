@@ -1,0 +1,9 @@
+CategoryID; Active  ; CategoryName  ; CategoryParentID  ; UrlRewrite;
+A         ; 2       ;  3            ; 4                 ; 5         ;
+B         ; 2       ;  3            ; 4                 ; 5         ;
+C         ; 2       ;  3            ; 4                 ; 5         ;
+D         ; 2       ;  3            ; 4                 ; 5         ;
+E         ; 2       ;  3            ; 4                 ; 5         ;
+
+
+
